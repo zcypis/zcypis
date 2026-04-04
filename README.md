@@ -4,20 +4,19 @@
 
 ### Guilherme Xavier
 
-**Python Developer | Logic Engineer**
+Python Developer | Backend
 
-Analiso, desmonto e reconstruo a lógica. Não espero o ambiente ideal; eu codifico a solução e entrego o resultado esperado.
+Analiso, desmonto e reconstruo a lógica. Não espero o ambiente ideal — eu codifico a solução enquanto ainda estou aprendendo.
 
-Meu foco é a **eficiência**. Desenvolvo ferramentas diretas ao ponto, priorizando a funcionalidade sobre a estética. Se existe um gargalo no sistema, eu encontro o código para eliminá-lo.
+Meu foco é a eficiência. Ferramentas diretas ao ponto, funcionalidade antes de estética, código limpo por decisão — não por acidente
 
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-guilherme-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/guilherme-xavier-dev)
-[![X](https://img.shields.io/badge/@soguipow-000000?style=flat&logo=x&logoColor=white)](https://x.com/soguipow)
 [![Gmail](https://img.shields.io/badge/Gmail-Contato-D14836?style=flat&logo=gmail&logoColor=white)](mailto:guilhermexavie3@gmail.com)
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=39FF14&center=false&vCenter=true&width=400&height=50&lines=%7B'server'%3A+'online'%2C%0A'status'%3A+'ativo'%7D;%7B'logic'%3A+'optimized'%2C%0A'mode'%3A+'brute_force'%7D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=800&color=39FF14&width=500&height=30&lines=%24%20python%20zcypis.py;%3E%3E%3E%20initializing%20runtime...;%3E%3E%3E%20%5BOK%5D%20Python%203.10%2B%20%7C%20POO;%3E%3E%3E%20%5BOK%5D%20Git%20%7C%20CLI%20%7C%20Linux;%3E%3E%3E%20%5BOK%5D%20Backend%20Logic;%3E%3E%3E%20%5BOK%5D%20Hardware%20Knowledge;%3E%3E%3E%20%5BLOADING%5D%20APIs%20REST%20.%20.%20.;%3E%3E%3E%200%20errors.%20Let%27s%20build." alt="Typing SVG" />
 </p>
 
 </td>
