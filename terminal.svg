@@ -1,0 +1,47 @@
+<svg viewBox="0 0 520 280" xmlns="http://www.w3.org/2000/svg" width="520" height="280">
+  <rect width="520" height="280" rx="8" fill="#0d1117"/>
+  <rect x="0" y="0" width="520" height="28" rx="8" fill="#161b22"/>
+  <circle cx="16" cy="14" r="5" fill="#ff5f57"/>
+  <circle cx="32" cy="14" r="5" fill="#febc2e"/>
+  <circle cx="48" cy="14" r="5" fill="#28c840"/>
+  <text x="230" y="19" font-family="monospace" font-size="11" fill="#8b949e" text-anchor="middle">zcypis — terminal</text>
+
+  <style>
+    .line { opacity: 0; font-family: 'Fira Code', 'Courier New', monospace; font-size: 13px; }
+    .cmd  { fill: #ffffff; }
+    .info { fill: #8b949e; }
+    .ok   { fill: #39ff14; }
+    .load { fill: #f0a500; }
+    .done { fill: #39ff14; }
+
+    .l1  { animation: show 0.1s 0.5s  forwards; }
+    .l2  { animation: show 0.1s 1.8s  forwards; }
+    .l3  { animation: show 0.1s 3.0s  forwards; }
+    .l4  { animation: show 0.1s 3.7s  forwards; }
+    .l5  { animation: show 0.1s 4.4s  forwards; }
+    .l6  { animation: show 0.1s 5.1s  forwards; }
+    .l7  { animation: show 0.1s 5.8s  forwards; }
+    .l8  { animation: show 0.1s 6.5s  forwards; }
+    .l9  { animation: show 0.1s 7.2s  forwards; }
+
+    @keyframes show { to { opacity: 1; } }
+
+    .cursor {
+      animation: blink 0.8s step-end infinite;
+      fill: #39ff14;
+      font-family: 'Fira Code', 'Courier New', monospace;
+      font-size: 13px;
+    }
+    @keyframes blink { 0%,100% { opacity:1; } 50% { opacity:0; } }
+  </style>
+
+  <text class="line cmd l1" x="16" y="58">$ py zcypis.py</text>
+  <text class="line info l2" x="16" y="80">&gt;&gt;&gt; initializing runtime...</text>
+  <text class="line ok l3" x="16" y="108">&gt;&gt;&gt; [OK] Python 3.10+ | POO</text>
+  <text class="line ok l4" x="16" y="130">&gt;&gt;&gt; [OK] Git | CLI | Linux</text>
+  <text class="line ok l5" x="16" y="152">&gt;&gt;&gt; [OK] Backend Logic</text>
+  <text class="line ok l6" x="16" y="174">&gt;&gt;&gt; [OK] Hardware Knowledge</text>
+  <text class="line load l7" x="16" y="196">&gt;&gt;&gt; [LOADING] APIs REST . . .</text>
+  <text class="line done l8" x="16" y="224">&gt;&gt;&gt; 0 errors. Let's build.</text>
+  <text class="cursor l9" x="16" y="250">_</text>
+</svg>
