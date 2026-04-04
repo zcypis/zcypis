@@ -13,12 +13,13 @@ Conhecimento sólido em hardware e software de computadores, o que me dá uma vi
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-guilherme--xavier--dev-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/guilherme-xavier-dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-guilherme-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/guilherme-xavier-dev)
+[![X](https://img.shields.io/badge/@soguipow-000000?style=flat&logo=x&logoColor=white)](https://x.com/seu_user)
+[![Gmail](https://img.shields.io/badge/Gmail-Contato-D14836?style=flat&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
 
-</td>
-<td valign="top" width="45%" align="center">
+<td valign="middle" width="45%" align="center">
 
-<img src="https://raw.githubusercontent.com/zcypis/zcypis/main/python_spin.gif" width="200" alt="Python spinning icon"/>
+<img src="https://raw.githubusercontent.com/zcypis/zcypis/main/python_spin.gif" width="100%" alt="Python spinning icon"/>
 
 </td>
 </tr>
@@ -28,13 +29,11 @@ Conhecimento sólido em hardware e software de computadores, o que me dá uma vi
 
 **Stack**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![POO](https://img.shields.io/badge/POO-333333?style=flat)
-![Hardware](https://img.shields.io/badge/Hardware%20%26%20Software-555555?style=flat)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Terminal](https://img.shields.io/badge/terminal-%234D4D4D.svg?style=for-the-badge&logo=gnu-terminal&logoColor=white)
 
 ---
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zcypis&theme=holi)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=zcypis&theme=blue-navy)](https://git.io/streak-stats)
