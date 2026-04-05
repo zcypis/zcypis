@@ -6,9 +6,9 @@
 
 Python Developer | Backend
 
-Analiso, desmonto e reconstruo a lógica. Não espero o ambiente ideal — eu codifico a solução enquanto ainda estou aprendendo.
+Analiso, desmonto e reconstruo a lógica. Não espero o ambiente ideal — eu codifico a solução.
 
-Meu foco é a eficiência. Ferramentas diretas ao ponto, funcionalidade antes de estética, código limpo por decisão — não por acidente
+Meu foco é a eficiência. Ferramentas diretas ao ponto, funcionalidade antes de estética, código limpo e tratamento de erro eficiente.
 
 <br>
 
