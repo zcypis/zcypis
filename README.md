@@ -5,7 +5,7 @@
 Python Developer | Backend
 
 <pre style="margin-top: 0px; display: block; text-align: left;">
-guilherme@dev:~$ neofetch
+C:\Users\zcypis> systeminfo | findstr /B "Log"
               
   ____             __                      
  / __ \__  _______/ /_  ____  ____ 
@@ -17,13 +17,12 @@ guilherme@dev:~$ neofetch
 ----------------------------------------
 Env     : Python 3.x
 Role    : Python Developer | Backend
-Uptime  : 11 meses de codigo
-Shell   : python3
+Status  : POO_Implementation | Active
+Shell   : Python CLI | venv-manager
 
 Studies : POO | Redes | Terminal 
 Focus   : Entender o porque antes de decorar
-Build   : CLI tools | Python puro | sem frameworks
-Goal    : Estagio ou vaga junior em backend
+Build   : CLI tools | Python puro
 </pre>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-guilherme-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/guilherme-xavier-dev)
