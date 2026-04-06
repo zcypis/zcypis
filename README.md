@@ -1,16 +1,30 @@
-<table>
-<tr>
-<td valign="top" width="55%">
-
-### Guilherme Xavier
+<table style="border-collapse: collapse; border: none; padding: 0px; margin: 0px;">
+<tr style="border: none; padding: 0px; margin: 0px;">
+<td valign="top" width="57%" align="left" style="border: none; padding: 0px; margin: 0px; padding-right: 20px;">
 
 Python Developer | Backend
 
-Analiso, desmonto e reconstruo a lógica. Não espero o ambiente ideal — eu codifico a solução.
+<pre style="margin-top: 0px; display: block; text-align: left;">
+guilherme@dev:~$ neofetch
+              
+  ____             __                      
+ / __ \__  _______/ /_  ____  ____ 
+/ /_/ / / / / ___/ __ \/ __ \/ __ \
+/ ____/ /_/ (__  ) / / / /_/ / / / /
+/_/    \__, /____/_/ /_/\____/_/ /_/ 
+      /____/                         
+          
+----------------------------------------
+Env     : Python 3.x
+Role    : Python Developer | Backend
+Uptime  : 11 meses de codigo
+Shell   : python3
 
-Meu foco é a eficiência. Ferramentas diretas ao ponto, funcionalidade antes de estética, código limpo e tratamento de erro eficiente.
-
-<br>
+Studies : POO | Redes | Terminal 
+Focus   : Entender o porque antes de decorar
+Build   : CLI tools | Python puro | sem frameworks
+Goal    : Estagio ou vaga junior em backend
+</pre>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-guilherme-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/guilherme-xavier-dev)
 [![Gmail](https://img.shields.io/badge/Gmail-Contato-D14836?style=flat&logo=gmail&logoColor=white)](mailto:guilhermexavie3@gmail.com)
