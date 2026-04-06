@@ -21,7 +21,7 @@ Status  : POO_Implementation | Active
 Shell   : Python CLI | venv-manager
 
 Studies : POO | Redes | Terminal 
-Focus   : Entender o porque antes de decorar
+Focus   : Buscando entender para criar
 Build   : CLI tools | Python puro
 </pre>
 
