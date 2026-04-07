@@ -15,7 +15,7 @@ C:\Users\zcypes> python -m zcypis.profile --status
       /____/                         
           
 ----------------------------------------
-Env     : Python 3.10+ | Windowns
+Env     : Python 3.10+ | Linux/Windows
 Role    : Python Developer | Backend
 Status  : POO_Implementation | Active
 Shell   : Python CLI | venv-manager
