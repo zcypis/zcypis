@@ -2,10 +2,10 @@
 <tr style="border: none; padding: 0px; margin: 0px;">
 <td valign="top" width="57%" align="left" style="border: none; padding: 0px; margin: 0px; padding-right: 20px;">
 
-Python Developer | Backend
+### dev: *Guilherme Xavier*
 
 <pre style="margin-top: 0px; display: block; text-align: left;">
-C:\Users\zcypis> systeminfo | findstr /B "Log"
+C:\Users\zcypes> python -m zcypis.profile --status
               
   ____             __                      
  / __ \__  _______/ /_  ____  ____ 
@@ -15,7 +15,7 @@ C:\Users\zcypis> systeminfo | findstr /B "Log"
       /____/                         
           
 ----------------------------------------
-Env     : Python 3.x
+Env     : Python 3.10+ | Windowns
 Role    : Python Developer | Backend
 Status  : POO_Implementation | Active
 Shell   : Python CLI | venv-manager
@@ -37,10 +37,19 @@ Build   : CLI tools | Python puro
 <td valign="middle" width="45%" align="center">
 
 <img src="https://raw.githubusercontent.com/zcypis/zcypis/main/python_spin.gif" width="100%" alt="Python spinning icon"/>
-
 </td>
-</tr>
 </table>
+
+---
+<h3 align="center">[0x01] // Identity.</h3>
+
+> Estudante de Python focado em codar sistemas "a prova de falhas"
+>
+> Meu atual forte é validação de dados, tratamento de erros e organização de código utilizando funções, decorators e estruturas modulares.
+>
+> Atualmente estudando POO para melhorar a estrutura dos projetos que crio.
+>
+> Busco saber como cada coisa funciona antes de implementar
 
 ---
 <h3 align="center">[0x02] // Core_Stack</h3>
@@ -51,9 +60,6 @@ Build   : CLI tools | Python puro
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
-  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
 </p>
 
 ---
