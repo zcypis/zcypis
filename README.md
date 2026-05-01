@@ -15,14 +15,14 @@ C:\Users\zcypes> python -m zcypis.profile --status
       /____/                         
           
 ----------------------------------------
-Env     : Python 3.10+ | Linux/Windows
+Env     : Python 3.10+ | Linux
 Role    : Python Developer | Backend
 Status  : POO_Implementation | Active
 Shell   : Python CLI | venv-manager
 
-Studies : POO | Redes | Terminal 
+Studies : Python | Redes | POO 
 Focus   : Buscando entender para criar
-Build   : CLI tools | Python puro
+Build   : CLI tools | Python
 </pre>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-guilherme-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/guilherme-xavier-dev)
